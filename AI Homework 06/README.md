@@ -1,2 +1,2 @@
-# AI---Homework02
-AI - Homework02
+# AI---Homework06
+AI - Homework06
